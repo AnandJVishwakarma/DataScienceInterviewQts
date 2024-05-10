@@ -1,2 +1,1 @@
-# DataScienceInterviewQts
-This repository includes all the Data Science interview questions provided by Ineuron
+# Data-Science-Interview-Questions-30-days-interview-preparation-
